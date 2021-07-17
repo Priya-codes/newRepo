@@ -15,5 +15,9 @@ public class Pattern {
 
 }
 
+	public void newMethod()
+	{
+		System.out.println("Hello");
+	}
 	
 }
